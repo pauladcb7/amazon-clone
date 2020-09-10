@@ -21,7 +21,7 @@ function Home() {
                     title='The example' 
                     price={9.99} 
                     rating={3} 
-                    image="http://pngimg.com/uploads/monitor/laptop_PNG5882.png" />
+                    image="http://pngimg.com/uploads/laptop/laptop_PNG5935.png" />
             </div>
             <div className="home__row">
                 <Product />
